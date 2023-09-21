@@ -1,11 +1,4 @@
 ---
 permalink: /contact/
 ---
-<form>
-  <fieldset>
-    <legend>Contact Us</legend>
-    Name: <input type="text" size="30"><br>
-    Email: <input type="text" size="30"><br>
-  </fieldset>
-  <a href="#" class="btn--success">Success Button</a>
-</form>
+<script type="text/javascript" src="https://form.jotform.com/jsform/232636202139046"></script>
