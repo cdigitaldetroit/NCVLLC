@@ -1,8 +1,7 @@
 ---
 permalink: /about/
 title: "About"
-excerpt: "At NCV, we are an experience-driven consulting firm"
-toc: true
+excerpt: "At NCV, we are an experience-driven consulting firm that excels in atmospheric design, operational integration, and asset management, all within the exciting realms of amusement arcades and mixed-use entertainment venues."
 ---
 # About Us
 
