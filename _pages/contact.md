@@ -1,6 +1,5 @@
 ---
 permalink: /contact/
-title: "Contact Us"
 ---
 <form>
   <fieldset>
@@ -8,4 +7,5 @@ title: "Contact Us"
     Name: <input type="text" size="30"><br>
     Email: <input type="text" size="30"><br>
   </fieldset>
+  <a href="#" class="btn--success">Success Button</a>
 </form>
