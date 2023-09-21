@@ -1,4 +1,0 @@
----
-permalink: /
----
-Some Test Copy
