@@ -1,13 +1,12 @@
 ---
 permalink: /about/
 title: "About"
-excerpt: "At NCV, we are an experience-driven consulting firm that excels in atmospheric design, operational integration, and asset management, all within the exciting realms of amusement arcades and mixed-use entertainment venues."
-classes:
-  - dark-theme
 ---
 
-At NCV, we are an experience-driven consulting firm that excels in atmospheric design, operational integration, and asset management, all within the exciting realms of amusement arcades and mixed-use entertainment venues. Our dedicated team specializes in delivering top-tier development guidance for Location-Based Entertainment (LBE) and Family Entertainment Center (FEC) locations. We provide direct industry access to manufacturing, distribution, financial services, and investment partnerships essential for thriving in today's arcade and amusements landscape.
+## Jim Bennington - Co-Founder
 
-In addition to our wealth of operational expertise, NCV maintains an extensive network of distributors, buyers, overseas manufacturing partners, designers, system integration specialists, prize and redemption inventory control solutions, point-of-sale systems, IT infrastructure and PCI compliance, Municipality Gaming compliance, as well as marketing and digital production services.
+Jim Bennington founded NCV L.L.C. in early 2023, driven by a passion to expedite financial success for both established brands and aspiring entrepreneurs within the amusements industry. With 25 years of hands-on practical experience in designing, developing, project managing, opening, and training for renowned establishments like Dave & Busters, Gameworks, and Jillian’s Entertainment Arcade Technicians, Jim is a true industry veteran. In 2004, he established and led the Games & Entertainment division of Lucky Strike Entertainment, overseeing eight arcade locations that collectively generated $100 million in net revenue through skill-based gaming operations solutions. Jim currently sits on the Board of Directors for the American Amusement Manufacturers Association (AAMA), actively contributing to various industry committees and publications.
 
-Our DNA is rooted in long-term development and quick turnaround project and production management. We are committed to meeting our clients' deadlines and budgetary objectives while continuously enhancing the end-user experience.
+## Chris Snitchler - Co-Founder
+
+Chris Snitchler, with 22 years of frontline amusements operations experience, specializes in the integrated system administration of various aspects such as Point of Sale, scoring systems, reservations, and food/beverage inventory controls. Chris is known as the "Goes Inta-Goes Outta Guru" for A/V, IT, and amusement operators, having worked with esteemed venues like Gameworks Entertainment, Revel & Roll (Ann Arbor, MI), Star Lanes Polaris (Polaris, OH), and Lucky Strike Entertainment. He also serves on the Board of Directors for the American Amusements Manufacturers Charitable Foundation (AAMCF).
