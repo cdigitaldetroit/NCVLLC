@@ -4,8 +4,8 @@ main:
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About Us"
     url: https://ncvllc.com/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Contact Us"
+    url: /contact/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
